@@ -99,7 +99,7 @@ class DusmanFactory:
     def dusman_olustur(self, seviye, saldiri, savunma, oyuncu_millet):
         # Düşman özelliklerini belirleyin, bu örnek için basitçe rastgele değerler seçelim
         dusman_isimleri = {
-            "Türk": ["Hasan", "Mehmet", "Ahmet", "Ali", "Ayşe", "Fatma", "Emine", "Mustafa", "Osman", "Zeynep"],
+            "Türk": ["Timur", "Enver", "Talat", "Mustafa Kemal", "Cemal", "Atilla", "Fatih", "Göktürk", "Osman Batur", "Uygur"],
             "Yunan": ["Yiannis", "Dimitri", "Nikos", "Costas", "Kostis", "Panagiotis", "Sokratis", "Stavros", "Yannis"],
             "Ermeni": ["Sarkis", "Krikor", "Garabed", "Hovhannes", "Bedros", "Dikran", "Tavit", "Vartan", "Aram", "Kevork"],
             "Arap": ["Ahmad", "Mahmoud", "Hassan", "Hussein", "Khalid", "Said", "Omar", "Ali", "Abdullah", "Nasser"]
